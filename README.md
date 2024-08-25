@@ -1,16 +1,20 @@
 # Hello I'm Osamudiamen Eweka (Osas) - Cybersecurity Graduate Student
 
 ## About Me
-Enthusiastic and detail-oriented cybersecurity professional with foundational knowledge in network security, threat analysis, and incident response. Eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the cybersecurity industry.
+Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduate student at Utica University with a solid foundation in network security, cloud security, and incident response. My passion lies in securing hybrid cloud environments and exploring tools like OWASP Amass for attack surface mapping. With hands-on experience from internships at LOG(N) Pacific as Cyber Security Support Engineer and a drive for continuous learning, I'm eager to tackle complex challenges and make an impact in the cybersecurity field. Let's connect and collaborate!
+
+Feel free to connect and collaborate!
 
 **Contact Information:**
 - Email: oseweka1@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)
-- [GitHub](https://github.com/osas-eweka)
+- [GitHub](https://github.com/eweka01)
 
 ---
 
-## Resume
+## Objective
+To leverage my strong foundation in network security, cloud security, and incident response, combined with hands-on experience and continuous learning, to contribute to protecting organizations' digital assets. I aim to drive impactful security strategies, particularly in securing hybrid cloud environments, while advancing my skills and growing within the cybersecurity industry.
+
 
 ### Education
 - **Master's in Cybersecurity**, Utica University (Expected Graduation: 2025)
