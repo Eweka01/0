@@ -86,10 +86,10 @@ Check out my GitHub repository for cybersecurity-related code and projects: [Git
 
 ---
 
-## Achievements and Testimonials
+## Cloud
 
-- **Awarded Best Cybersecurity Project** at Benson Idahosa University for cloud security simulation.
-- **Testimonial**: "Osas consistently demonstrated a strong commitment to cybersecurity best practices and excelled in network security projects." - Dr. Donnie Wendt, Professor of Cybersecurity at Utica University.
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ---
 
