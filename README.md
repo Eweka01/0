@@ -46,7 +46,7 @@ Enthusiastic and detail-oriented cybersecurity professional with foundational kn
 
 ---
 
-## Publications and Research
+## Research
 
 - **Perimeter and Network Security in Defense-in-Depth Strategy**: A comprehensive guide on implementing a layered security approach to protect organizational networks (in progress).
 
@@ -96,16 +96,8 @@ Check out my GitHub repository for cybersecurity-related code and projects: [Git
 
 ---
 
-## Blog
-
-### Recent Posts:
-- **The Importance of Incident Response in Cloud Environments**: [Read More](https://example.com)
-- **Securing Hybrid Networks: Best Practices**: [Read More](https://example.com)
-
----
-
 ## Contact Me
 Feel free to reach out if you'd like to collaborate or discuss cybersecurity topics.
 
-- **Email**: osas.eweka@example.com
-- **LinkedIn**: [linkedin.com/in/osamudiamen-eweka](https://www.linkedin.com/in/osamudiamen-eweka)
+- **Email**: oseweka1@gmail.com
+- **LinkedIn**: [linkedin.com/in/osamudiamen-eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)
