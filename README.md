@@ -32,6 +32,7 @@ To leverage my strong foundation in network security, cloud security, and incide
 ---
 
 ## Projects
+-Seven Domains of a Typical IT Infrastructure https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main
 
 ### Cloud Incident Response Simulation
 **Description**: Simulated a cloud incident response scenario focusing on detection, containment, and remediation of a security breach in a cloud environment.
