@@ -1,11 +1,11 @@
-# Osamudiamen Eweka (Osas) - Cybersecurity Graduate Student
+# Hello I'm Osamudiamen Eweka (Osas) - Cybersecurity Graduate Student
 
 ## About Me
 Enthusiastic and detail-oriented cybersecurity professional with foundational knowledge in network security, threat analysis, and incident response. Eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the cybersecurity industry.
 
 **Contact Information:**
-- Email: osas.eweka@example.com
-- [LinkedIn](https://www.linkedin.com/in/osamudiamen-eweka)
+- Email: oseweka1@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)
 - [GitHub](https://github.com/osas-eweka)
 
 ---
@@ -17,13 +17,13 @@ Enthusiastic and detail-oriented cybersecurity professional with foundational kn
 - **Bachelor's in Computer Science**, Benson Idahosa University (2022)
 
 ### Certifications
-- CompTIA Security+
+- CompTIA Security+ (Expected)
 - AWS Certified Solutions Architect - Associate (Expected)
 
 ### Technical Skills
 - **Tools**: OWASP Amass, Wireshark, Metasploit, Splunk, Burp Suite
 - **Languages**: Python, Bash, SQL
-- **Areas of Expertise**: Network Security, Cloud Security, Incident Response, Penetration Testing
+- **Areas of Expertise**: Network Security, Cloud Security, Incident Response, 
 
 ---
 
