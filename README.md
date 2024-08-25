@@ -56,13 +56,6 @@ To leverage my strong foundation in network security, cloud security, and incide
 
 ---
 
-## Certifications
-
-- **CompTIA Security+**: Demonstrated foundational security skills and practices.
-- **AWS Certified Solutions Architect - Associate**: (Expected).
-
----
-
 ## Tools and Skills
 
 ### Tools
@@ -90,13 +83,6 @@ Check out my GitHub repository for cybersecurity-related code and projects: [Git
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-
----
-
-## Volunteer Work and Community Involvement
-
-- **Cybersecurity CTF Competitions**: Participated in multiple Capture The Flag (CTF) events, focusing on network and web security challenges.
-- **Open Source Contributions**: Contributed to the development of open-source security tools on GitHub.
 
 ---
 
